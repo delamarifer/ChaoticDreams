@@ -1,0 +1,18 @@
+name: chaotic-dreams
+
+dependencies:
+  - python=3.9.1
+  - h5py
+  - jupyter
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - scikit-learn
+  - scipy
+  - conda-forge::statsmodels
+  - tqdm
+  - pip
+  - pip:
+    - cython
+    - mne
