@@ -5,6 +5,7 @@ dependencies:
   - h5py
   - jupyter
   - matplotlib
+  - nomkl
   - numpy
   - openpyxl
   - pandas
