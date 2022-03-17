@@ -9,6 +9,7 @@ dependencies:
   - numpy
   - openpyxl
   - pandas
+  - requests
   - scikit-learn
   - scipy
   - conda-forge::statsmodels
